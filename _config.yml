@@ -1,0 +1,14 @@
+layout_spectrum: 0.7605409687384963
+typography_spectrum: 0.6050308244302869
+color:
+  brandStrength: 0.8324313370976597
+  lightness: 0.8429007437080145
+  saturation: 0.6350197421852499
+  rhythmicContrast: 0.4579682550393045
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: VALANCE
